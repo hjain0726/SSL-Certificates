@@ -1,0 +1,2 @@
+# SSL-Certificates
+SSL Certificates provide secure, encrypted communications between a website and an internet browser. SSL stands for Secure Sockets Layer, the protocol which provides the encryption. SSL Certificates are typically installed on pages that require end-users to submit sensitive information over the internet like credit card details or passwords. Example pages include payment pages, online forms and login pages.
